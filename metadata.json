@@ -1,0 +1,7 @@
+{
+  "name": "Nova Workspace",
+  "description": "A clean interactive web portal and student resource launcher with customizable links and embedded web applications.",
+  "requestFramePermissions": ["fullscreen"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
